@@ -1,1 +1,1 @@
-# cr.churchfinder
+A planned side-project at the request of a friend. The base idea is to have a church-search app for constrained to Costa Rica, though I also want to add featues to 1) allow manual entry of church locations and 2) push these new, menually entered church locations to Open Street Maps (which is where church location data will originall be taken from). The needed API calls are already tested and functional as I wanted to have some kind of proof-of-concept completed sooner rather than later.
